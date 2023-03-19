@@ -38,7 +38,7 @@ Par exemple pour un JeuDeLaVie de taille `3 x 3`, on représentera chaque géné
 
 #### Déroulement du jeu
 
-Exemple 1 :
+Exemple 1 : <br>
 a. Initialise la génération 0 ainsi :
 ```
 0 0 0 0 0
